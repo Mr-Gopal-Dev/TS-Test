@@ -4,7 +4,7 @@ import "./index.css";
 import logo from "./logo.svg";
 import reactLogo from "./react.svg";
 
-// 12/02/26 - 01
+// 12/02/26 - 02
 
 export function App() {
   return (
